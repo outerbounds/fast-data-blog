@@ -1,3 +1,6 @@
+
+# Read this blog post for context: [Fast Data: Loading Tables From S3 At Lightning Speed](https://outerbounds.com/blog/metaflow-fast-data/) ⚡
+
 # Setup
 
 ## Python Environment 📦
